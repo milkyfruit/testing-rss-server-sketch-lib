@@ -11,7 +11,7 @@
     <item>
       <title>PurpleLib</title>
       <pubDate>Wed, 11 Jul 2009 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/milkyfruit/testing-rss-server-sketch-lib/blob/master/PurpleLib.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https://github.com/milkyfruit/testing-rss-server-sketch-lib/blob/master/PurpleLib.sketch?raw=true" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
